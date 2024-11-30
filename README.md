@@ -22,7 +22,6 @@
 <h2>🔗 Contact me</h2>
 <ul>
     <li><a href="https://github.com/kvbcs" target="_blank">GitHub</a> </li> </br>
-    <li><a href="https://www.linkedin.com/in/kyllianvibancos" target="_blank">LinkedIn</a> </li>
     </ul>
 
 </br>
