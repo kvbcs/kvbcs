@@ -47,9 +47,9 @@ I discovered a real passion for programming strong back-ends and creating beauti
 
 ## **📊 MY STATS**
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kvbcs&theme=algolia&hide_border=true) ![kvbcs's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvbcs&show_icons=true&theme=synthwave)
+![kvbcs's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvbcs&show_icons=true&theme=synthwave) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvbcs&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvbcs&theme=synthwave)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kvbcs&theme=algolia&hide_border=true)
 
 <br>
 <br>
