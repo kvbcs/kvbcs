@@ -8,62 +8,29 @@
 
 ## **💻 MY STACK**
 
-<div style="display:flex; flex-direction:row; justify-content:space-between">
-    <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:50%; flex-wrap:wrap">
-
 ### *Web*
 
 ![Web Skills](https://skillicons.dev/icons?i=html,css,js,ts)
-
-</div>
-
- <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:50%; flex-wrap:wrap">
  
- ### *Front-end*
+### *Front-end*
 
 ![Front-end Skills](https://skillicons.dev/icons?i=next,react,tailwind,bootstrap)
-
-</div>
-
-</div>
-
-<div style="display:flex; flex-direction:row; justify-content:space-between">
-    <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:50%; flex-wrap:wrap">
 
 ### *Back-end*
 
 ![Back-end Skills](https://skillicons.dev/icons?i=nodejs,express,nest,prisma)
-
-</div>
-
- <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:50%; flex-wrap:wrap">
  
 ### *Databases*
 
 ![Databases Skills](https://skillicons.dev/icons?i=mysql,mongodb)
 
-</div>
-
-</div>
-
-<div style="display:flex; flex-direction:row; justify-content:space-between">
-    <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:50%; flex-wrap:wrap">
-
 ### *Tools*
 
-![My Tools](https://skillicons.dev/icons?i=vscode,postman,git,github,vercel,heroku,figma,wordpress&perline=4)
-
-</div>
-
- <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:50%; flex-wrap:wrapx">
+![My Tools](https://skillicons.dev/icons?i=vscode,postman,git,github,vercel,heroku,figma,wordpress)
  
 ### *I'm currently learning...*
 
-![Learning](https://skillicons.dev/icons?i=java,spring,postgresql,docker,react,angular,jest&perline=4)
-
-</div>
-
-</div>
+![Learning](https://skillicons.dev/icons?i=java,spring,postgresql,docker,react,angular,jest)
 
 <br>
 <br>
